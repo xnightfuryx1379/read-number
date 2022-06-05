@@ -6,9 +6,9 @@ int main() {
     cin >> n;
 
     a = n % 10; //yekan
-    n = n / 10;
+    n = n / 10;// jodakardan
     b = n % 10;//dahegan
-    c = n / 10;//sadgan
+    c = n / 10;//sadegan
 
     switch (c)
     {
